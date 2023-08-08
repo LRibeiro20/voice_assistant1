@@ -1,6 +1,6 @@
 # voice_assistant1
 
-This a voice assistant repository, in order to run the code you need to install the requirements.txt.
+This is a voice assistant repository, in order to run the code you need to install the requirements.txt.
 
 To install run the command in your terminal: 
 
